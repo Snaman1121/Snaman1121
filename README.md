@@ -15,8 +15,8 @@
 
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Javascript, CSS and UI/UX**
 
-- 📫 Reach me at E-mail **tonmoyofficial29@gmail.com**
+- 📫 Reach me at E-mail **n9301118000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12tcVPBcikN-s_HaD-GdjZrkbygLFv7td/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AWVJM3Skgv9JOTmKb02x0LgiThEACC66/view?usp=sharing)
 
 - ⚡ Fun fact **I like 3d animation**
